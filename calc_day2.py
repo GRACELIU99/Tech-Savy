@@ -70,3 +70,26 @@ now = datetime. datetime.now()
 print(now)
 print(now.hour, now.minute, now.second)
 print (now. year)
+
+import math
+print(math.pi)
+print(math.sqrt(25))
+
+import random
+print(random. random())
+print(random.random()*100)
+print(random.random()*100) # a random integer between 0 and 100
+
+print(random.randint(1, 6)) # a random integer between 1 and 6
+
+print(random.choice(['valerie','Grace', 'Aob'])) # a random name in the list
+
+lower= int(input('Place a number as the lower bound'))
+upper= int(input('another one as upper bound'))
+print(random.randint(lower,upper))
+
+
+##springs
+#I'm "ok"
+print("I'm \" ok\". ")
+print('I\'m learning\n\nPython.')
