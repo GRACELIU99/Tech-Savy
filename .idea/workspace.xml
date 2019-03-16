@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1be05107-1b66-42e3-a481-dc307ce20062" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Day 2_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/calc_day2.py" beforeDir="false" afterPath="$PROJECT_DIR$/calc_day2.py" afterDir="false" />
-    </list>
+    <list default="true" id="1be05107-1b66-42e3-a481-dc307ce20062" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,16 +31,16 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Day 2_2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-28">
-              <caret line="14" column="10" lean-forward="true" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+            <state relative-caret-position="176">
+              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/chapter2.py">
           <provider selected="true" editor-type-id="text-editor">
             <state>
@@ -317,6 +314,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Day 2_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/calc_day2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="40">
@@ -328,13 +332,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="14" lean-forward="true" selection-start-column="14" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day 2_2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-28">
-          <caret line="14" column="10" lean-forward="true" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
         </state>
       </provider>
     </entry>
