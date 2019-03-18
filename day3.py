@@ -86,3 +86,10 @@ print(team[0])
 #print(team[1.0])
 print(team[len(team)])
 
+
+prefixes = 'JKLMOPQ'
+
+suffix = 'ack'
+for letter in prefixes:
+    print(letter+suffix)
+

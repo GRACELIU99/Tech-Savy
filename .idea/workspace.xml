@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1be05107-1b66-42e3-a481-dc307ce20062" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/QUIZ1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day 3_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day3.py" beforeDir="false" afterPath="$PROJECT_DIR$/day3.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -63,11 +61,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/day3.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="86" column="4" lean-forward="true" selection-start-line="86" selection-start-column="4" selection-end-line="86" selection-end-column="4" />
+            <state relative-caret-position="312">
+              <caret line="95" selection-start-line="72" selection-end-line="95" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/day 3_2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -96,6 +103,7 @@
         <option value="$PROJECT_DIR$/chapter2.py" />
         <option value="$PROJECT_DIR$/QUIZ1.py" />
         <option value="$PROJECT_DIR$/day3.py" />
+        <option value="$PROJECT_DIR$/day 3_2.py" />
       </list>
     </option>
   </component>
@@ -143,28 +151,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.day3">
-    <configuration name="Day 2_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Tech-Savy" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 2_2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.day 3_2">
     <configuration name="QUIZ1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Tech-Savy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -228,6 +215,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="day 3_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Tech-Savy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day 3_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="day3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Tech-Savy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -251,11 +259,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.day 3_2" />
         <item itemvalue="Python.day3" />
         <item itemvalue="Python.QUIZ1" />
         <item itemvalue="Python.chapter2" />
         <item itemvalue="Python.calc_day2" />
-        <item itemvalue="Python.Day 2_2" />
       </list>
     </recent_temporary>
   </component>
@@ -286,6 +294,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1293" height="693" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49746192" weight="0.24343675" />
       <window_info id="Structure" order="1" sideWeight="0.5025381" side_tool="true" visible="true" weight="0.24343675" />
@@ -368,8 +377,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/day3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="86" column="4" lean-forward="true" selection-start-line="86" selection-start-column="4" selection-end-line="86" selection-end-column="4" />
+        <state relative-caret-position="312">
+          <caret line="95" selection-start-line="72" selection-end-line="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day 3_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
         </state>
       </provider>
     </entry>
