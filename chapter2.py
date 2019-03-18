@@ -7,3 +7,4 @@ print(lengt_of_number)
 print(len('Maddison'))
 
 
+3*1**3
