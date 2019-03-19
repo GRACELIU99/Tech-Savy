@@ -8,3 +8,4 @@ for letter in prefixes:
     else:
          print(letter +suffix)
 
+team = 'N'
